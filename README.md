@@ -1,0 +1,1 @@
+This is small and rather crude implementation of non-tessellating grid theory. It contains a data type for non-tessellating grid traversals and an algorithm to convert the data type to a Cartesian point  
